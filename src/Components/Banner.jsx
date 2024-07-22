@@ -49,7 +49,7 @@ const Banner = () => {
                     <h2 className='md:text-5xl text-5xl font-bold md:leading-snug leading-snug'>Satisfy your cravings and experience a  <span className='text-primary-color'>Burger</span> like never before.</h2>
                     <p className='text-xl text-[#4A4A4A]'>"Craving something special? Our fresh, uniquely flavored burgers satisfy even the most discerning taste buds. Experience extraordinary!"</p>
 
-                    <button className='btn bg-primary-color px-8 py-3 text-white font-semibold rounded-full'>Order Now</button>
+                    <button className='btn bg-primary-color px-8 py-3 text-white font-semibold rounded-full hover:text-black'>Order Now</button>
                 </div>   
             </div>
         </div>

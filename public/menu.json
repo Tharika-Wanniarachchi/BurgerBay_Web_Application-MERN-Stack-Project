@@ -20,7 +20,7 @@
         "name": "Spicy Chicken Burger",
         "description": "Spicy fried chicken with jalapenos and spicy mayo",
         "category": "Chicken Burger",
-        "image": "/images/recipes/img3.png",
+        "image": "/images/recipes/img41.png",
         "price": 15.5
     },
     {
@@ -28,7 +28,7 @@
         "name": "Grilled Chicken Wrap",
         "description": "Grilled chicken with fresh vegetables in a tortilla wrap",
         "category": "Shawarma",
-        "image": "/images/recipes/shawr1.png",
+        "image": "/images/recipes/shawar1.png",
         "price": 12.0
     },
     {
@@ -36,7 +36,7 @@
         "name": "Veggie Delight Burger",
         "description": "Grilled veggie patty with avocado and tomato",
         "category": "Veggie Burger",
-        "image": "/images/recipes/img5.png",
+        "image": "/images/recipes/img53.png",
         "price": 12.5
     },
     {
@@ -44,7 +44,7 @@
         "name": "Mushroom Swiss Burger",
         "description": "Beef patty with mushrooms and Swiss cheese",
         "category": "Veggie Burger",
-        "image": "/images/recipes/img6.png",
+        "image": "/images/recipes/img1.png",
         "price": 16.0
     },
     {
@@ -52,7 +52,7 @@
         "name": "BBQ Chicken Wrap",
         "description": "Grilled chicken with BBQ sauce and coleslaw in a wrap",
         "category": "Shawarma",
-        "image": "/images/recipes/shawr2.png",
+        "image": "/images/recipes/shawar2.png",
         "price": 13.0
     },
     {
@@ -60,7 +60,7 @@
         "name": "Fresh Veggie Wrap",
         "description": "Mixed vegetables with hummus in a tortilla wrap",
         "category": "Shawarma",
-        "image": "/images/recipes/shawr3.png",
+        "image": "/images/recipes/shawar3.png",
         "price": 11.0
     },
     {
@@ -92,7 +92,7 @@
         "name": "Chicken Caesar Wrap",
         "description": "Grilled chicken with Caesar dressing and lettuce in a wrap",
         "category": "Shawarma",
-        "image": "/images/recipes/shawr4.png",
+        "image": "/images/recipes/shawar4.png",
         "price": 12.5
     },
     {
@@ -100,7 +100,7 @@
         "name": "Falafel Burger",
         "description": "Crispy falafel patty with hummus and cucumber",
         "category": "Veggie Burger",
-        "image": "/images/recipes/img13.png",
+        "image": "/images/recipes/img51.png",
         "price": 13.0
     },
     {
@@ -108,7 +108,7 @@
         "name": "Cheese Chicken Burger",
         "description": "Chicken burger with melted cheese and pickles",
         "category": "Chicken Burger",
-        "image": "/images/recipes/img14.png",
+        "image": "/images/recipes/img1.png",
         "price": 15.0
     },
     {
@@ -116,7 +116,7 @@
         "name": "Veggie Bean Burger",
         "description": "Black bean patty with salsa and guacamole",
         "category": "Veggie Burger",
-        "image": "/images/recipes/img15.png",
+        "image": "/images/recipes/img52.png",
         "price": 12.0
     },
     {
@@ -124,7 +124,7 @@
         "name": "Avocado Chicken Wrap",
         "description": "Chicken wrap with avocado and ranch dressing",
         "category": "Shawarma",
-        "image": "/images/recipes/shawr5.png",
+        "image": "/images/recipes/shawar4.png",
         "price": 13.5
     },
     {
@@ -148,7 +148,7 @@
         "name": "Hawaiian Chicken Burger",
         "description": "Grilled chicken with pineapple and teriyaki sauce",
         "category": "Chicken Burger",
-        "image": "/images/recipes/img19.png",
+        "image": "/images/recipes/img2.png",
         "price": 15.5
     },
     {
@@ -156,7 +156,7 @@
         "name": "Portobello Mushroom Burger",
         "description": "Grilled portobello mushroom with Swiss cheese",
         "category": "Veggie Burger",
-        "image": "/images/recipes/img20.png",
+        "image": "/images/recipes/img52.png",
         "price": 14.0
     },
     {
@@ -164,7 +164,7 @@
         "name": "Greek Chicken Wrap",
         "description": "Grilled chicken with tzatziki sauce and cucumber",
         "category": "Shawarma",
-        "image": "/images/recipes/shawr5.png",
+        "image": "/images/recipes/shawar5.png",
         "price": 13.0
     },
     {
@@ -180,7 +180,7 @@
         "name": "Spicy Veggie Wrap",
         "description": "Veggie wrap with spicy hummus and jalapenos",
         "category": "Shawarma",
-        "image": "/images/recipes/shawr3.png",
+        "image": "/images/recipes/shawar3.png",
         "price": 11.5
     },
     {
@@ -196,7 +196,7 @@
         "name": "Buffalo Chicken Wrap",
         "description": "Spicy buffalo chicken with lettuce and blue cheese",
         "category": "Shawarma",
-        "image": "/images/recipes/shawr2.png",
+        "image": "/images/recipes/shawar2.png",
         "price": 13.0
     },
     {
@@ -204,7 +204,7 @@
         "name": "Crispy Veggie Burger",
         "description": "Crispy veggie patty with lettuce and tomato",
         "category": "Veggie Burger",
-        "image": "/images/recipes/img26.png",
+        "image": "/images/recipes/img2.png",
         "price": 12.0
     },
     {
@@ -212,7 +212,7 @@
         "name": "Cajun Chicken Burger",
         "description": "Spicy Cajun chicken with lettuce and tomato",
         "category": "Chicken Burger",
-        "image": "/images/recipes/img27.png",
+        "image": "/images/recipes/img53.png",
         "price": 14.5
     },
     {
@@ -228,7 +228,7 @@
         "name": "Mediterranean Veggie Wrap",
         "description": "Wrap with hummus, olives, and feta cheese",
         "category": "Shawarma",
-        "image": "/images/recipes/shawr1.png",
+        "image": "/images/recipes/shawar1.png",
         "price": 11.0
     },
     {
@@ -236,7 +236,7 @@
         "name": "BBQ Veggie Burger",
         "description": "Veggie patty with BBQ sauce and onion rings",
         "category": "Veggie Burger",
-        "image": "/images/recipes/img30.png",
+        "image": "/images/recipes/img41.png",
         "price": 13.0
     },
     {
@@ -252,7 +252,7 @@
         "name": "Tex-Mex Chicken Wrap",
         "description": "Chicken wrap with salsa, avocado, and cheese",
         "category": "Shawarma",
-        "image": "/images/recipes/shawr4.png",
+        "image": "/images/recipes/shawar4.png",
         "price": 13.5
     },
     {
@@ -276,7 +276,7 @@
         "name": "Zesty Chicken Burger",
         "description": "Grilled chicken with a zesty lime sauce",
         "category": "Chicken Burger",
-        "image": "/images/recipes/img35.png",
+        "image": "/images/recipes/img2.png",
         "price": 15.0
     },
     {
@@ -292,7 +292,7 @@
         "name": "Cucumber Mint Wrap",
         "description": "Wrap with cucumber, mint, and feta cheese",
         "category": "Shawarma",
-        "image": "/images/recipes/shawr1.png",
+        "image": "/images/recipes/shawar1.png",
         "price": 11.0
     },
     {
@@ -300,7 +300,7 @@
         "name": "BBQ Chicken Burger",
         "description": "Grilled chicken with BBQ sauce and cheddar cheese",
         "category": "Chicken Burger",
-        "image": "/images/recipes/img38.png",
+        "image": "/images/recipes/img41.png",
         "price": 15.5
     },
     {
@@ -316,7 +316,7 @@
         "name": "Mediterranean Chicken Wrap",
         "description": "Chicken wrap with olives, feta, and hummus",
         "category": "Shawarma",
-        "image": "/images/recipes/shawr2.png",
+        "image": "/images/recipes/shawar2.png",
         "price": 13.0
     },
     {
@@ -324,7 +324,7 @@
         "name": "Herb Veggie Burger",
         "description": "Veggie patty with fresh herbs and garlic aioli",
         "category": "Veggie Burger",
-        "image": "/images/recipes/img41.png",
+        "image": "/images/recipes/img53.png",
         "price": 12.0
     },
     {
@@ -332,7 +332,7 @@
         "name": "Spicy Chicken Wrap",
         "description": "Wrap with spicy chicken, lettuce, and tomato",
         "category": "Shawarma",
-        "image": "/images/recipes/shawr3.png",
+        "image": "/images/recipes/shawar3.png",
         "price": 12.5
     },
     {
@@ -348,7 +348,7 @@
         "name": "Sweet Potato Burger",
         "description": "Veggie burger with a sweet potato patty",
         "category": "Veggie Burger",
-        "image": "/images/recipes/img44.png",
+        "image": "/images/recipes/img2.png",
         "price": 13.0
     },
     {
@@ -356,7 +356,7 @@
         "name": "Chili Lime Chicken Burger",
         "description": "Grilled chicken with chili lime sauce",
         "category": "Chicken Burger",
-        "image": "/images/recipes/img45.png",
+        "image": "/images/recipes/img51.png",
         "price": 14.5
     },
     {
@@ -372,7 +372,7 @@
         "name": "Teriyaki Chicken Wrap",
         "description": "Chicken wrap with teriyaki sauce and sesame seeds",
         "category": "Shawarma",
-        "image": "/images/recipes/shawr5.png",
+        "image": "/images/recipes/shawar5.png",
         "price": 13.0
     },
     {
@@ -380,7 +380,7 @@
         "name": "Roasted Veggie Wrap",
         "description": "Wrap with roasted vegetables and balsamic glaze",
         "category": "Shawarma",
-        "image": "/images/recipes/shawr1.png",
+        "image": "/images/recipes/shawar1.png",
         "price": 12.0
     },
     {

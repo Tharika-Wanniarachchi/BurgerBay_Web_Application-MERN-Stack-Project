@@ -125,7 +125,7 @@ import { BiPhoneCall } from "react-icons/bi";
                     </div>
 
                     {/* Contact Button */}
-                    <a className="btn bg-primary-color rounded-full px-6 text-white flex items-center gap-2"><BiPhoneCall /> Contact Us</a>
+                    <a className="btn bg-primary-color rounded-full px-6 text-white flex items-center gap-2 hover:text-black"><BiPhoneCall /> Contact Us</a>
                 </div>
             </div>
         </div>      
