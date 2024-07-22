@@ -2,35 +2,36 @@ import React, { useEffect, useState } from 'react';
 import logo from '/logo.png';
 import { BiPhoneCall } from "react-icons/bi";
 
-const Navbar = () => {
-    const[isSticky, setSticky] = useState(false);
+    const Navbar = () => {
+        const[isSticky, setSticky] = useState(false);
 
-    // Handle Scroll functions
-    useEffect( ()=>{
-        const handleScroll = () =>{
-            const offSet = window.scrollY;
-            if(offSet > 0){
-                setSticky(true)
-            }else{
-                setSticky(false)
-            }
-        };
+        // Handle Scroll functions
+        useEffect( ()=>{
+            const handleScroll = () =>{
+                const offSet = window.scrollY;
+                if(offSet > 0){
+                    setSticky(true)
+                }else{
+                    setSticky(false)
+                }
+            };
 
-        window.addEventListener("scroll", handleScroll);
+            window.addEventListener("scroll", handleScroll);
 
-        return () => {
-            window.removeEventListener("scroll", handleScroll); 
-        }
+            return () => {
+                window.removeEventListener("scroll", handleScroll); 
+            };
 
-    }, [])
+        }, []);
 
-    const navItems = (<>
-        <li><a href='/'>Home</a></li>
+    const navItems = (
+    <>
+        <li><a href='/' className='text-primary-color'>Home</a></li>
         <li>
             <details>
             <summary>Menu</summary>
             <ul className="p-2">
-                <li><a>All</a></li>
+                <li><a href='/menu'>All</a></li>
                 <li><a>Burger</a></li>
                 <li><a>Tender Wrap</a></li>
                 <li><a>Baverage</a></li>
@@ -49,6 +50,7 @@ const Navbar = () => {
         </li>
         <li><a>Offers</a></li>
     </>);
+    
   return (
    // <header className='w-full shadow-lg fixed'>
     <header className={`fixed top-0 left-0 right-0 z-50 transition-all duration-300 ease-in-out ${isSticky ? "shadow-md bg-base-100" : ""}`}>
@@ -123,7 +125,7 @@ const Navbar = () => {
                     </div>
 
                     {/* Contact Button */}
-                    <a className="btn bg-primary-color rounded-full px-6 text-white flex items-center gap-2"><BiPhoneCall /> Contact</a>
+                    <a className="btn bg-primary-color rounded-full px-6 text-white flex items-center gap-2 hover:text-black"><BiPhoneCall /> Contact Us</a>
                 </div>
             </div>
         </div>      

@@ -53,3 +53,9 @@ body{
 .social-icon{
   @apply bg-secondary-bg-color p-2 rounded-full  text-lg border text-[#555555] border-[#ff4a4a2e] hover:bg-primary-color hover:text-white cursor-pointer;
 }
+
+.active{
+  @apply underline decoration-2 text-primary-color h-20 ;
+  
+  
+}
