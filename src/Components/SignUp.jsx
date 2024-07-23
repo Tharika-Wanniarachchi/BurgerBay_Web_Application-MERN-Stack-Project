@@ -13,7 +13,7 @@ const SignUp = () => {
       const onSubmit= (data) => console.log(data);
 
   return (
-        <div className="max-w-md w-full mx-auto shadow flex flex-col items-center justify-center my-32 ">
+        <div className="max-w-2xl w-full mx-auto shadow-lg flex flex-col items-center justify-center my-48 ">
              <div className="modal-action mt-0 flex flex-col justify-center">
                 <form className="card-body" method='dialog' onSubmit={handleSubmit(onSubmit)}>
                     <h2 className="font-bold text-2xl text-center">Create a New Account</h2>

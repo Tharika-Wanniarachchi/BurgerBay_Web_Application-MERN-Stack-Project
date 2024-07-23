@@ -29,28 +29,18 @@ import Modal from './Modal';
     const navItems = (
     <>
         <li><a href='/' className='text-primary-color'>Home</a></li>
-        <li>
-            <details>
-            <summary>Menu</summary>
-            <ul className="p-2">
-                <li><a href='/menu'>All</a></li>
-                <li><a>Burger</a></li>
-                <li><a>Tender Wrap</a></li>
-                <li><a>Baverage</a></li>
-            </ul>
-            </details>
-        </li>
+        <li><a href='/menu' activeClassName="active">Menu</a></li>
         <li>
             <details>
             <summary>Services</summary>
             <ul className="p-2">
-                <li><a>Online Order</a></li>
-                <li><a>Table Booking</a></li>
-                <li><a>Order Tracking</a></li>
+                <li><a href="/services">Online Order</a></li>
+                <li><a href='/services'>Table Booking</a></li>
+                <li><a href='/services'>Order Tracking</a></li>
             </ul>
             </details>
         </li>
-        <li><a>Offers</a></li>
+        <li><a href='/offers'>Offers</a></li>
     </>);
     
   return (
