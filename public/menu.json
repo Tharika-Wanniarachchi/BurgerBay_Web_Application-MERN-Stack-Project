@@ -1,0 +1,454 @@
+[
+    {
+        "id": "1",
+        "name": "Fried Chicken Burger",
+        "description": "Crispy fried chicken with fresh lettuce and mayo",
+        "category": "Chicken Burger",
+        "image": "/images/recipes/img1.png",
+        "price": 14.6
+    },
+    {
+        "id": "2",
+        "name": "Double Classic Burger",
+        "description": "Double beef patty with cheese, lettuce, and tomato",
+        "category": "Chicken Burger",
+        "image": "/images/recipes/img2.png",
+        "price": 16.7
+    },
+    {
+        "id": "3",
+        "name": "Spicy Chicken Burger",
+        "description": "Spicy fried chicken with jalapenos and spicy mayo",
+        "category": "Chicken Burger",
+        "image": "/images/recipes/img41.png",
+        "price": 15.5
+    },
+    {
+        "id": "4",
+        "name": "Grilled Chicken Wrap",
+        "description": "Grilled chicken with fresh vegetables in a tortilla wrap",
+        "category": "Shawarma",
+        "image": "/images/recipes/shawar1.png",
+        "price": 12.0
+    },
+    {
+        "id": "5",
+        "name": "Veggie Delight Burger",
+        "description": "Grilled veggie patty with avocado and tomato",
+        "category": "Veggie Burger",
+        "image": "/images/recipes/img53.png",
+        "price": 12.5
+    },
+    {
+        "id": "6",
+        "name": "Mushroom Swiss Burger",
+        "description": "Beef patty with mushrooms and Swiss cheese",
+        "category": "Veggie Burger",
+        "image": "/images/recipes/img1.png",
+        "price": 16.0
+    },
+    {
+        "id": "7",
+        "name": "BBQ Chicken Wrap",
+        "description": "Grilled chicken with BBQ sauce and coleslaw in a wrap",
+        "category": "Shawarma",
+        "image": "/images/recipes/shawar2.png",
+        "price": 13.0
+    },
+    {
+        "id": "8",
+        "name": "Fresh Veggie Wrap",
+        "description": "Mixed vegetables with hummus in a tortilla wrap",
+        "category": "Shawarma",
+        "image": "/images/recipes/shawar3.png",
+        "price": 11.0
+    },
+    {
+        "id": "9",
+        "name": "Tropical Smoothie",
+        "description": "Refreshing smoothie with a blend of tropical fruits",
+        "category": "Beverages",
+        "image": "/images/recipes/img9.png",
+        "price": 7.5
+    },
+    {
+        "id": "10",
+        "name": "Lemon Iced Tea",
+        "description": "Cool and refreshing iced tea with a hint of lemon",
+        "category": "Beverages",
+        "image": "/images/recipes/img10.png",
+        "price": 5.0
+    },
+    {
+        "id": "11",
+        "name": "Classic Milkshake",
+        "description": "Thick and creamy milkshake in vanilla, chocolate, or strawberry",
+        "category": "Beverages",
+        "image": "/images/recipes/img11.png",
+        "price": 6.0
+    },
+    {
+        "id": "12",
+        "name": "Chicken Caesar Wrap",
+        "description": "Grilled chicken with Caesar dressing and lettuce in a wrap",
+        "category": "Shawarma",
+        "image": "/images/recipes/shawar4.png",
+        "price": 12.5
+    },
+    {
+        "id": "13",
+        "name": "Falafel Burger",
+        "description": "Crispy falafel patty with hummus and cucumber",
+        "category": "Veggie Burger",
+        "image": "/images/recipes/img51.png",
+        "price": 13.0
+    },
+    {
+        "id": "14",
+        "name": "Cheese Chicken Burger",
+        "description": "Chicken burger with melted cheese and pickles",
+        "category": "Chicken Burger",
+        "image": "/images/recipes/img1.png",
+        "price": 15.0
+    },
+    {
+        "id": "15",
+        "name": "Veggie Bean Burger",
+        "description": "Black bean patty with salsa and guacamole",
+        "category": "Veggie Burger",
+        "image": "/images/recipes/img52.png",
+        "price": 12.0
+    },
+    {
+        "id": "16",
+        "name": "Avocado Chicken Wrap",
+        "description": "Chicken wrap with avocado and ranch dressing",
+        "category": "Shawarma",
+        "image": "/images/recipes/shawar4.png",
+        "price": 13.5
+    },
+    {
+        "id": "17",
+        "name": "Strawberry Smoothie",
+        "description": "Smoothie made with fresh strawberries and yogurt",
+        "category": "Beverages",
+        "image": "/images/recipes/img17.png",
+        "price": 6.5
+    },
+    {
+        "id": "18",
+        "name": "Coconut Water",
+        "description": "Refreshing coconut water to keep you hydrated",
+        "category": "Beverages",
+        "image": "/images/recipes/img18.png",
+        "price": 4.0
+    },
+    {
+        "id": "19",
+        "name": "Hawaiian Chicken Burger",
+        "description": "Grilled chicken with pineapple and teriyaki sauce",
+        "category": "Chicken Burger",
+        "image": "/images/recipes/img2.png",
+        "price": 15.5
+    },
+    {
+        "id": "20",
+        "name": "Portobello Mushroom Burger",
+        "description": "Grilled portobello mushroom with Swiss cheese",
+        "category": "Veggie Burger",
+        "image": "/images/recipes/img52.png",
+        "price": 14.0
+    },
+    {
+        "id": "21",
+        "name": "Greek Chicken Wrap",
+        "description": "Grilled chicken with tzatziki sauce and cucumber",
+        "category": "Shawarma",
+        "image": "/images/recipes/shawar5.png",
+        "price": 13.0
+    },
+    {
+        "id": "22",
+        "name": "Strawberry Mint Cool",
+        "description": "Strawberry with Mint Cool",
+        "category": "Beverages",
+        "image": "/images/recipes/img10.png",
+        "price": 3.0
+    },
+    {
+        "id": "23",
+        "name": "Spicy Veggie Wrap",
+        "description": "Veggie wrap with spicy hummus and jalapenos",
+        "category": "Shawarma",
+        "image": "/images/recipes/shawar3.png",
+        "price": 11.5
+    },
+    {
+        "id": "24",
+        "name": "Choco Mint Shake",
+        "description": "Chocolate milkshake with a hint of mint",
+        "category": "Beverages",
+        "image": "/images/recipes/img17.png",
+        "price": 7.0
+    },
+    {
+        "id": "25",
+        "name": "Buffalo Chicken Wrap",
+        "description": "Spicy buffalo chicken with lettuce and blue cheese",
+        "category": "Shawarma",
+        "image": "/images/recipes/shawar2.png",
+        "price": 13.0
+    },
+    {
+        "id": "26",
+        "name": "Crispy Veggie Burger",
+        "description": "Crispy veggie patty with lettuce and tomato",
+        "category": "Veggie Burger",
+        "image": "/images/recipes/img2.png",
+        "price": 12.0
+    },
+    {
+        "id": "27",
+        "name": "Cajun Chicken Burger",
+        "description": "Spicy Cajun chicken with lettuce and tomato",
+        "category": "Chicken Burger",
+        "image": "/images/recipes/img53.png",
+        "price": 14.5
+    },
+    {
+        "id": "28",
+        "name": "Banana Smoothie",
+        "description": "Smoothie made with bananas and almond milk",
+        "category": "Beverages",
+        "image": "/images/recipes/img11.png",
+        "price": 6.0
+    },
+    {
+        "id": "29",
+        "name": "Mediterranean Veggie Wrap",
+        "description": "Wrap with hummus, olives, and feta cheese",
+        "category": "Shawarma",
+        "image": "/images/recipes/shawar1.png",
+        "price": 11.0
+    },
+    {
+        "id": "30",
+        "name": "BBQ Veggie Burger",
+        "description": "Veggie patty with BBQ sauce and onion rings",
+        "category": "Veggie Burger",
+        "image": "/images/recipes/img41.png",
+        "price": 13.0
+    },
+    {
+        "id": "31",
+        "name": "Pineapple Smoothie",
+        "description": "Refreshing smoothie with pineapple and coconut",
+        "category": "Beverages",
+        "image": "/images/recipes/img11.png",
+        "price": 6.5
+    },
+    {
+        "id": "32",
+        "name": "Tex-Mex Chicken Wrap",
+        "description": "Chicken wrap with salsa, avocado, and cheese",
+        "category": "Shawarma",
+        "image": "/images/recipes/shawar4.png",
+        "price": 13.5
+    },
+    {
+        "id": "33",
+        "name": "Lemonade",
+        "description": "Freshly squeezed lemonade",
+        "category": "Beverages",
+        "image": "/images/recipes/img33.png",
+        "price": 4.5
+    },
+    {
+        "id": "34",
+        "name": "Mango Lassi",
+        "description": "Traditional mango yogurt drink",
+        "category": "Beverages",
+        "image": "/images/recipes/img11.png",
+        "price": 5.5
+    },
+    {
+        "id": "35",
+        "name": "Zesty Chicken Burger",
+        "description": "Grilled chicken with a zesty lime sauce",
+        "category": "Chicken Burger",
+        "image": "/images/recipes/img2.png",
+        "price": 15.0
+    },
+    {
+        "id": "36",
+        "name": "Carrot and Orange Smoothie",
+        "description": "Smoothie with fresh carrots and orange juice",
+        "category": "Beverages",
+        "image": "/images/recipes/img33.png",
+        "price": 6.0
+    },
+    {
+        "id": "37",
+        "name": "Cucumber Mint Wrap",
+        "description": "Wrap with cucumber, mint, and feta cheese",
+        "category": "Shawarma",
+        "image": "/images/recipes/shawar1.png",
+        "price": 11.0
+    },
+    {
+        "id": "38",
+        "name": "BBQ Chicken Burger",
+        "description": "Grilled chicken with BBQ sauce and cheddar cheese",
+        "category": "Chicken Burger",
+        "image": "/images/recipes/img41.png",
+        "price": 15.5
+    },
+    {
+        "id": "39",
+        "name": "Berry Blast Smoothie",
+        "description": "Smoothie with a mix of berries and yogurt",
+        "category": "Beverages",
+        "image": "/images/recipes/img11.png",
+        "price": 6.5
+    },
+    {
+        "id": "40",
+        "name": "Mediterranean Chicken Wrap",
+        "description": "Chicken wrap with olives, feta, and hummus",
+        "category": "Shawarma",
+        "image": "/images/recipes/shawar2.png",
+        "price": 13.0
+    },
+    {
+        "id": "41",
+        "name": "Herb Veggie Burger",
+        "description": "Veggie patty with fresh herbs and garlic aioli",
+        "category": "Veggie Burger",
+        "image": "/images/recipes/img53.png",
+        "price": 12.0
+    },
+    {
+        "id": "42",
+        "name": "Spicy Chicken Wrap",
+        "description": "Wrap with spicy chicken, lettuce, and tomato",
+        "category": "Shawarma",
+        "image": "/images/recipes/shawar3.png",
+        "price": 12.5
+    },
+    {
+        "id": "43",
+        "name": "Watermelon Smoothie",
+        "description": "Refreshing smoothie made with watermelon and mint",
+        "category": "Beverages",
+        "image": "/images/recipes/img56.png",
+        "price": 5.5
+    },
+    {
+        "id": "44",
+        "name": "Sweet Potato Burger",
+        "description": "Veggie burger with a sweet potato patty",
+        "category": "Veggie Burger",
+        "image": "/images/recipes/img2.png",
+        "price": 13.0
+    },
+    {
+        "id": "45",
+        "name": "Chili Lime Chicken Burger",
+        "description": "Grilled chicken with chili lime sauce",
+        "category": "Chicken Burger",
+        "image": "/images/recipes/img51.png",
+        "price": 14.5
+    },
+    {
+        "id": "46",
+        "name": "Peach Iced Tea",
+        "description": "Iced tea with a refreshing peach flavor",
+        "category": "Beverages",
+        "image": "/images/recipes/img10.png",
+        "price": 5.0
+    },
+    {
+        "id": "47",
+        "name": "Teriyaki Chicken Wrap",
+        "description": "Chicken wrap with teriyaki sauce and sesame seeds",
+        "category": "Shawarma",
+        "image": "/images/recipes/shawar5.png",
+        "price": 13.0
+    },
+    {
+        "id": "48",
+        "name": "Roasted Veggie Wrap",
+        "description": "Wrap with roasted vegetables and balsamic glaze",
+        "category": "Shawarma",
+        "image": "/images/recipes/shawar1.png",
+        "price": 12.0
+    },
+    {
+        "id": "49",
+        "name": "Cucumber Lemonade",
+        "description": "Lemonade with a hint of cucumber",
+        "category": "Beverages",
+        "image": "/images/recipes/img56.png",
+        "price": 4.5
+    },
+    {
+        "id": "50",
+        "name": "Pumpkin Spice Latte",
+        "description": "Hot latte with pumpkin spice flavor",
+        "category": "Beverages",
+        "image": "/images/recipes/img17.png",
+        "price": 5.5
+    },
+    
+    {
+        "id": "51",
+        "name": "Chicken Burger",
+        "description": "Special offer crispy chicken burger with lettuce and mayo",
+        "category": "offer",
+        "image": "/images/recipes/img51.png",
+        "price": 10.0
+    },
+    {
+        "id": "52",
+        "name": "Chicken Shawarma Wrap",
+        "description": "Special offer chicken shawarma with garlic sauce and pickles",
+        "category": "offer",
+        "image": "/images/recipes/img54.png",
+        "price": 11.0
+    },
+   
+    {
+        "id": "53",
+        "name": "Veggie Burger",
+        "description": "Special offer veggie burger with avocado and tomato",
+        "category": "offer",
+        "image": "/images/recipes/img53.png",
+        "price": 9.0
+    },
+    {
+        "id": "54",
+        "name": "Beef Burger",
+        "description": "Special offer beef burger with cheese, lettuce, and tomato",
+        "category": "offer",
+        "image": "/images/recipes/img52.png",
+        "price": 12.0
+    },
+    {
+        "id": "55",
+        "name": "Beef Shawarma Wrap",
+        "description": "Special offer beef shawarma with tahini sauce and veggies",
+        "category": "offer",
+        "image": "/images/recipes/img55.png",
+        "price": 12.5
+    },
+    {
+        "id": "56",
+        "name": "Mint Lemonade",
+        "description": "Special offer refreshing mint lemonade",
+        "category": "offer",
+        "image": "/images/recipes/img56.png",
+        "price": 3.0
+    }
+
+    
+]

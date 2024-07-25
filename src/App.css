@@ -1,0 +1,61 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter+Tight:ital,wght@0,100..900;1,100..900&display=swap');
+
+@import url('https://fonts.googleapis.com/css2?family=Andika:ital,wght@0,400;0,700;1,400;1,700&family=Inter+Tight:ital,wght@0,100..900;1,100..900&display=swap');
+ 
+body{
+  font-family: "Inter Tight", sans-serif;
+
+} 
+
+
+
+.section-container {
+  @apply max-w-screen-2xl container mx-auto xl:px-24 px-4;
+}
+
+.category-card-section {
+  @apply flex flex-wrap justify-center items-center py-24 gap-8;
+}
+
+.category-card {
+  @apply shadow-lg rounded-xl bg-card-bg py-6 px-5 w-72 mx-auto text-center cursor-pointer hover:-translate-y-4 duration-300 transition-all;
+}
+
+.card-image{
+  @apply flex justify-center;
+}
+.card-title{
+  @apply font-bold text-xl;
+}
+
+.title{
+  @apply text-4xl md:text-5xl font-bold my-3 md:leading-snug leading-snug;
+  /* leading-snug:This sets the line height to a snug value (usually 1.375)  */
+}
+
+.subtitle{
+  @apply text-red-400 uppercase tracking-wide font-medium text-lg; 
+  /* tracking-wide:This increases the letter spacing */
+}
+
+.description{
+  @apply text-[#555555] my-3 font-medium ;
+}
+
+.heartStar{
+   border-radius: 0px 30px 0px 40px;
+}
+
+.service-card{
+  @apply flex flex-col justify-center text-center shadow-md px-4 py-5 rounded-md bg-card-bg space-y-2 cursor-pointer hover:border-rose-200 transition-all duration-200 hover:border;
+}
+
+.social-icon{
+  @apply bg-secondary-bg-color p-2 rounded-full  text-lg border text-[#555555] border-[#ff4a4a2e] hover:bg-primary-color hover:text-white cursor-pointer;
+}
+
+.active{
+  @apply underline decoration-2 text-primary-color h-20 ;
+  
+  
+}
