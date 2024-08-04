@@ -10,3 +10,7 @@ Currently, two official plugins are available:
 =======
 # BurgerBay_Web_Application-MERN-Stack-Project
 >>>>>>> 833a032ac731cc939274bc04086505ff46cb91fc
+>>>>>>
+
+![image](https://github.com/user-attachments/assets/0e006f22-5319-4cee-97b1-0c6e24d016e2)
+
